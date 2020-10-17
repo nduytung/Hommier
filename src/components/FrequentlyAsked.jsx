@@ -30,13 +30,7 @@ class FrequentlyAsked extends React.Component {
           headerDescribe="These are frequently asked questions that we think might help you "
         />
         {faq.map((i, index) => {
-          return (
-            <FAQ
-              name={i}
-              detail="Okay this is the default text for the FAQ "
-              answer={answer[index]}
-            />
-          );
+          return <FAQ name={i} answer={answer[index]} />;
         })}
       </div>
     );

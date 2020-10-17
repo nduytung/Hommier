@@ -6,7 +6,6 @@ class FAQ extends React.Component {
     super(props);
     this.state = {
       name: this.props.name,
-      detail: this.props.detail,
       displayState: null,
       answer: this.props.answer,
       icon: "+",
@@ -26,7 +25,7 @@ class FAQ extends React.Component {
     this.setState({ displayState: increase, icon: iconChange });
   };
   render() {
-    const { name, detail, displayState, icon } = this.state;
+    const { name, displayState, icon } = this.state;
     return (
       <div
         className="col-12 border-bottom border-dark pt-3 "

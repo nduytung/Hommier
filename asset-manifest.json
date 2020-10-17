@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/hommier/static/css/main.4875fc82.chunk.css",
+    "main.js": "/hommier/static/js/main.09204354.chunk.js",
+    "main.js.map": "/hommier/static/js/main.09204354.chunk.js.map",
+    "runtime-main.js": "/hommier/static/js/runtime-main.d0380ba7.js",
+    "runtime-main.js.map": "/hommier/static/js/runtime-main.d0380ba7.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/hommier/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.9bccbc33.chunk.js": "/hommier/static/js/2.9bccbc33.chunk.js",
+    "static/js/2.9bccbc33.chunk.js.map": "/hommier/static/js/2.9bccbc33.chunk.js.map",
+    "index.html": "/hommier/index.html",
+    "precache-manifest.8454cfedd6329a7c332e7fcccadace4c.js": "/hommier/precache-manifest.8454cfedd6329a7c332e7fcccadace4c.js",
+    "service-worker.js": "/hommier/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/hommier/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.4875fc82.chunk.css.map": "/hommier/static/css/main.4875fc82.chunk.css.map",
+    "static/js/2.9bccbc33.chunk.js.LICENSE.txt": "/hommier/static/js/2.9bccbc33.chunk.js.LICENSE.txt",
+    "static/media/about-img.jpg": "/hommier/static/media/about-img.29fae3d0.jpg",
+    "static/media/all.min.css": "/hommier/static/media/fa-solid-900.ec763292.svg",
+    "static/media/intro-bg.jpg": "/hommier/static/media/intro-bg.8f338c7b.jpg",
+    "static/media/intro-img.png": "/hommier/static/media/intro-img.3ed5cc2a.png",
+    "static/media/testimonial-2.jpg": "/hommier/static/media/testimonial-2.cecf9402.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0380ba7.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.9bccbc33.chunk.js",
+    "static/css/main.4875fc82.chunk.css",
+    "static/js/main.09204354.chunk.js"
+  ]
+}

@@ -43,8 +43,9 @@ class Footer extends React.Component {
                   </p>
                   <div className="text-muted pt-3 pb-3 small">
                     <b> Duy Tung's third project</b>. I've deployed this on
-                    October 17, 2020. This website has been created to learn
-                    usages of ReactJs with Bootstrap. No commercial use on this.
+                    October 17, 2020. This website has been created in order to
+                    learn usages of ReactJs with Bootstrap. No commercial use on
+                    this.
                   </div>
 
                   <p className="small mt-2 font-weight-bold text-uppercase">

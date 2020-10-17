@@ -16,6 +16,8 @@ import ClientComment from "./components/ClientComment";
 import SocialMediaIcon from "./components/socialMediaIcon";
 import FrequentlyAsked from "./components/FrequentlyAsked";
 
+/* TIME: 2 WEEKS */
+
 class App extends React.Component {
   constructor(props) {
     super(props);

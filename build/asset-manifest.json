@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Hommier/static/css/main.2e4cc468.chunk.css",
+    "main.js": "/Hommier/static/js/main.1dbfe4ab.chunk.js",
+    "main.js.map": "/Hommier/static/js/main.1dbfe4ab.chunk.js.map",
+    "runtime-main.js": "/Hommier/static/js/runtime-main.a4baedc3.js",
+    "runtime-main.js.map": "/Hommier/static/js/runtime-main.a4baedc3.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/Hommier/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.9bccbc33.chunk.js": "/Hommier/static/js/2.9bccbc33.chunk.js",
+    "static/js/2.9bccbc33.chunk.js.map": "/Hommier/static/js/2.9bccbc33.chunk.js.map",
+    "index.html": "/Hommier/index.html",
+    "precache-manifest.1ca34aa9c9b6ea0b08099c4298a62136.js": "/Hommier/precache-manifest.1ca34aa9c9b6ea0b08099c4298a62136.js",
+    "service-worker.js": "/Hommier/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/Hommier/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.2e4cc468.chunk.css.map": "/Hommier/static/css/main.2e4cc468.chunk.css.map",
+    "static/js/2.9bccbc33.chunk.js.LICENSE.txt": "/Hommier/static/js/2.9bccbc33.chunk.js.LICENSE.txt",
+    "static/media/about-img.jpg": "/Hommier/static/media/about-img.29fae3d0.jpg",
+    "static/media/all.min.css": "/Hommier/static/media/fa-solid-900.ec763292.svg",
+    "static/media/intro-bg.jpg": "/Hommier/static/media/intro-bg.8f338c7b.jpg",
+    "static/media/intro-img.png": "/Hommier/static/media/intro-img.3ed5cc2a.png",
+    "static/media/testimonial-2.jpg": "/Hommier/static/media/testimonial-2.cecf9402.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4baedc3.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.9bccbc33.chunk.js",
+    "static/css/main.2e4cc468.chunk.css",
+    "static/js/main.1dbfe4ab.chunk.js"
+  ]
+}
